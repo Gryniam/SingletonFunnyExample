@@ -1,0 +1,15 @@
+C:\Users\Grynia\source\repos\Televisor\Televisor\bin\Debug\Televisor.exe.config
+C:\Users\Grynia\source\repos\Televisor\Televisor\bin\Debug\Televisor.exe
+C:\Users\Grynia\source\repos\Televisor\Televisor\bin\Debug\Televisor.pdb
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.csproj.AssemblyReference.cache
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.Form1.resources
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.Properties.Resources.resources
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.csproj.GenerateResource.cache
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.csproj.CoreCompileInputs.cache
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.exe
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.pdb
+C:\Users\Grynia\source\repos\Televisor\Televisor\bin\Debug\Interop.WMPLib.dll
+C:\Users\Grynia\source\repos\Televisor\Televisor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Interop.WMPLib.dll
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Grynia\source\repos\Televisor\Televisor\obj\Debug\Televisor.csproj.ResolveComReference.cache
